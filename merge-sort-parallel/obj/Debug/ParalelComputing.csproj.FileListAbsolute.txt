@@ -1,0 +1,8 @@
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\obj\Debug\ParalelComputing.csproj.AssemblyReference.cache
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\obj\Debug\ParalelComputing.csproj.SuggestedBindingRedirects.cache
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\obj\Debug\ParalelComputing.csproj.CoreCompileInputs.cache
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\bin\Debug\ParalelComputing.exe.config
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\bin\Debug\ParalelComputing.exe
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\bin\Debug\ParalelComputing.pdb
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\obj\Debug\ParalelComputing.exe
+D:\Aktivitasku\Source Code\PBO C#\ParalelComputing\ParalelComputing\obj\Debug\ParalelComputing.pdb
