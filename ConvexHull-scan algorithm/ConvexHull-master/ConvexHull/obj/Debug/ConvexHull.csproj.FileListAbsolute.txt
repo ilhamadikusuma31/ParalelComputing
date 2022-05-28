@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull\bin\Debug\ConvexHull.dll
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull\bin\Debug\ConvexHull.pdb
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull\obj\Debug\ConvexHull.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull\obj\Debug\ConvexHull.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull\obj\Debug\ConvexHull.dll
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull\obj\Debug\ConvexHull.pdb

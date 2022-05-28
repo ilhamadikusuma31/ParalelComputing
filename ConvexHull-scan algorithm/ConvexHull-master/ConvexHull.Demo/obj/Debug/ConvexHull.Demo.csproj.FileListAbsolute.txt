@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\bin\Debug\ConvexHull.Demo.exe.config
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\bin\Debug\ConvexHull.Demo.exe
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\bin\Debug\ConvexHull.Demo.pdb
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\bin\Debug\ConvexHull.dll
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\bin\Debug\ConvexHull.pdb
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\obj\Debug\ConvexHull.Demo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\obj\Debug\ConvexHull.Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\obj\Debug\ConvexHull.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\obj\Debug\ConvexHull.Demo.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\obj\Debug\ConvexHull.Demo.exe
+C:\Users\Lenovo\Desktop\ConvexHull-master\ConvexHull-master\ConvexHull.Demo\obj\Debug\ConvexHull.Demo.pdb
