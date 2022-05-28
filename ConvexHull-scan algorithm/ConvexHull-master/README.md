@@ -1,3 +1,3 @@
 ConvexHull
 ==========
-![Results](/Results.PNG)
+<p>penerapan scan algorithm pada convex hull versi graham</p>
