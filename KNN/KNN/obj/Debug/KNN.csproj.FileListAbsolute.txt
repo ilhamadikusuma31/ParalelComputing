@@ -1,0 +1,8 @@
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\bin\Debug\KNN.exe.config
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\bin\Debug\KNN.exe
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\bin\Debug\KNN.pdb
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\obj\Debug\KNN.csproj.AssemblyReference.cache
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\obj\Debug\KNN.csproj.SuggestedBindingRedirects.cache
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\obj\Debug\KNN.csproj.CoreCompileInputs.cache
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\obj\Debug\KNN.exe
+D:\Aktivitasku\Source Code\PBO C#\KNN\KNN\obj\Debug\KNN.pdb
